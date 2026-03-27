@@ -1,0 +1,13 @@
+category,actual_guardrail_decision,count
+chemical_harm,review,3
+credential_theft,block,3
+data_exfiltration,block,3
+fraud_impersonation,review,3
+illegal_marketplace,block,3
+malware_misuse,allow,3
+phishing_fraud,review,3
+privacy_invasion,allow,3
+safety_bypass,review,3
+unauthorized_access,review,3
+violent_wrongdoing,allow,3
+weapon_related,block,3

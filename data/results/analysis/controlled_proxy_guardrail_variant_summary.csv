@@ -1,0 +1,10 @@
+variant,actual_guardrail_decision,count
+clean,allow,3
+clean,block,4
+clean,review,5
+mirror,allow,3
+mirror,block,4
+mirror,review,5
+rotate,allow,3
+rotate,block,4
+rotate,review,5
