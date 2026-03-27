@@ -1,0 +1,13 @@
+method,scope,variant,total_cases,matches,match_rate
+gemini_baseline,overall,all,18,17,0.9444444444444444
+gemini_baseline,variant,clean,6,6,1.0
+gemini_baseline,variant,mirror,6,5,0.8333333333333334
+gemini_baseline,variant,rotate,6,6,1.0
+raw_ocr,overall,all,18,6,0.3333333333333333
+raw_ocr,variant,clean,6,6,1.0
+raw_ocr,variant,mirror,6,0,0.0
+raw_ocr,variant,rotate,6,0,0.0
+ocr_oracle_normalized,overall,all,18,18,1.0
+ocr_oracle_normalized,variant,clean,6,6,1.0
+ocr_oracle_normalized,variant,mirror,6,6,1.0
+ocr_oracle_normalized,variant,rotate,6,6,1.0
