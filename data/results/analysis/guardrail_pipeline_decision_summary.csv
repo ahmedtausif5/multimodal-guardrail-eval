@@ -1,0 +1,7 @@
+true_variant,decision,count
+clean,allow,5
+clean,review,1
+mirror,allow,5
+mirror,review,1
+rotate,allow,5
+rotate,review,1
